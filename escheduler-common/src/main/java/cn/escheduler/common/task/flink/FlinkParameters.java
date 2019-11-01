@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * spark parameters
+ * flink parameters
  */
 public class FlinkParameters extends AbstractParameters {
 
